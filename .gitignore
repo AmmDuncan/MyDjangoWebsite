@@ -1,2 +1,2 @@
-settings.py
-models.py
+mysite/settings.py
+mysite/models.py
